@@ -12,6 +12,5 @@ const API = {
       ServerActions.receiveDefault(conditions);
     });
   }
-
 }
 export default API;
