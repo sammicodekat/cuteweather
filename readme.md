@@ -1,3 +1,3 @@
-# Weather App
-Live Demo at https://sammicodekat.github.io/weatherapp/
-Pics/Gifs Courtesy of Cindy Suen @ http://cindysuen.tumblr.com/
+# Weather Check
+![image](https://dl2.pushbulletusercontent.com/g10uYP1nbBQbbzZ0wppiRJc4UWk5TouX/weather.gif)
+##[Live Demo](https://sammicodekat.com/weatherapp)
